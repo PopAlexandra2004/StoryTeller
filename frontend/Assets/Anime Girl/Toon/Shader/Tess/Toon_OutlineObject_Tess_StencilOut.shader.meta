@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06cae78b869a3234bab02eeb52197e1c
+timeCreated: 1518248482
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235114
+  packageName: Anime Girl
+  packageVersion: 1.0
+  assetPath: Assets/Anime Girl/Toon/Shader/Tess/Toon_OutlineObject_Tess_StencilOut.shader
+  uploadId: 532436

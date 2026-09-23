@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 11e8f1e181e558a47a387492d3ecdb88
+timeCreated: 1518248461
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235114
+  packageName: Anime Girl
+  packageVersion: 1.0
+  assetPath: Assets/Anime Girl/Toon/Shader/Tess/ToonColor_ShadingGradeMap_AngelRing_TransClipping_Tess_StencilOut.shader
+  uploadId: 532436

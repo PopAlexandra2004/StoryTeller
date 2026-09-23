@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 369d674ae1ba36249bb00e2f73b0cd10
+timeCreated: 1483233167
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235114
+  packageName: Anime Girl
+  packageVersion: 1.0
+  assetPath: Assets/Anime Girl/Toon/Shader/ToonColor_DoubleShadeWithFeather_TransClipping.shader
+  uploadId: 532436

@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Oo]bj/
+[Bb]in/
+[Tt]emp/
+[Mm]emoryCaptures/
+[Ll]ogs/
+UserSettings/
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.hdr

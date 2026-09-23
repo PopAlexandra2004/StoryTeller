@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f28bba8b2f259bb40b697d91849c8794
+timeCreated: 1518248460
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235114
+  packageName: Anime Girl
+  packageVersion: 1.0
+  assetPath: Assets/Anime Girl/Toon/Shader/Tess/ToonColor_DoubleShadeWithFeather_Transparent_Tess_StencilOut.shader
+  uploadId: 532436

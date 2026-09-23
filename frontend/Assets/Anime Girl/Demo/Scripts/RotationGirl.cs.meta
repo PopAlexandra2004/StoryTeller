@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3910c93855580934bb9921969500b6a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235114
+  packageName: Anime Girl
+  packageVersion: 1.0
+  assetPath: Assets/Anime Girl/Demo/Scripts/RotationGirl.cs
+  uploadId: 532436

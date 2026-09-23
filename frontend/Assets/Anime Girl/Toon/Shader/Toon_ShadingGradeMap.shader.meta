@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca035891872022e4f80c952b3916e450
+timeCreated: 1485041920
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235114
+  packageName: Anime Girl
+  packageVersion: 1.0
+  assetPath: Assets/Anime Girl/Toon/Shader/Toon_ShadingGradeMap.shader
+  uploadId: 532436

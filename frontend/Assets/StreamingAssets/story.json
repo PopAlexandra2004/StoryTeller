@@ -1,0 +1,165 @@
+{
+    "actors": [
+        {
+            "id": "hero",
+            "prefabName": "Boy",
+            "initialPosition": {
+                "x": 0.5,
+                "y": 0.05,
+                "z": -1
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "SPEAK",
+            "actorId": "hero",
+            "text": "Hello! I'm David, and today I'm going on an adventure to learn some new Italian words, specifically about fish!",
+            "animation": "doWave",
+            "camera": "general",
+            "audioFile": "audio_0.mp3"
+        },
+        {
+            "type": "SPEAK",
+            "actorId": "hero",
+            "text": "My first stop is a bustling Italian fish market, a 'Mercato del pesce'. It's so exciting!",
+            "animation": "idle",
+            "camera": "general",
+            "audioFile": "audio_1.mp3"
+        },
+        {
+            "type": "SHOW_IMAGE",
+            "text": "The phrase 'Mercato del pesce' means 'Fish market' in Italian. It's a lively place where fresh fish is sold!",
+            "imagePrompt": "A bustling Italian fish market, with vendors and customers, fresh fish on ice, colorful stalls, vibrant atmosphere, sunny day",
+            "camera": "monitor",
+            "audioFile": "audio_2.mp3",
+            "imageFile": "imagine_1.jpg"
+        },
+        {
+            "type": "SPEAK",
+            "actorId": "hero",
+            "text": "I want to 'imparare' or learn some new fish names. There are so many kinds here!",
+            "animation": "think",
+            "camera": "general",
+            "audioFile": "audio_3.mp3"
+        },
+        {
+            "type": "SHOW_IMAGE",
+            "text": "To 'imparare' means 'to learn' in Italian. David is eager to expand his vocabulary!",
+            "imagePrompt": "A young boy with a thoughtful expression, looking at an open book with Italian words, a lightbulb above his head, learning concept, cartoon style",
+            "camera": "monitor",
+            "audioFile": "audio_4.mp3",
+            "imageFile": "imagine_2.jpg"
+        },
+        {
+            "type": "SPEAK",
+            "actorId": "hero",
+            "text": "Look at that big, strong fish! That's a 'Tonno', which means 'Tuna' in Italian. It's huge!",
+            "animation": "excited",
+            "camera": "general",
+            "audioFile": "audio_5.mp3"
+        },
+        {
+            "type": "SHOW_IMAGE",
+            "text": "This is a 'Tonno', the Italian word for 'Tuna'. Tuna are large, powerful fish found in the ocean.",
+            "imagePrompt": "A large, silver Tonno (Tuna) fish swimming gracefully in clear blue ocean water, sunlight filtering from above, realistic rendering",
+            "camera": "monitor",
+            "audioFile": "audio_6.mp3",
+            "imageFile": "imagine_3.jpg"
+        },
+        {
+            "type": "SPEAK",
+            "actorId": "hero",
+            "text": "And over here, with its beautiful pink flesh, it's a 'Salmone'! In English, we call that 'Salmon'.",
+            "animation": "happy",
+            "camera": "general",
+            "audioFile": "audio_7.mp3"
+        },
+        {
+            "type": "SHOW_IMAGE",
+            "text": "Here is a 'Salmone', the Italian word for 'Salmon'. Salmon are known for their distinctive pink color and delicious taste.",
+            "imagePrompt": "A beautiful Salmone (Salmon) fish with iridescent scales, swimming upstream in a clear river, surrounded by green trees, realistic style",
+            "camera": "monitor",
+            "audioFile": "audio_8.mp3",
+            "imageFile": "imagine_4.jpg"
+        },
+        {
+            "type": "SPEAK",
+            "actorId": "hero",
+            "text": "So, I've learned 'Tonno' and 'Salmone'. These are both types of 'pesce'. 'Pesce' just means 'fish'!",
+            "animation": "doPoint",
+            "camera": "general",
+            "audioFile": "audio_9.mp3"
+        },
+        {
+            "type": "SHOW_IMAGE",
+            "text": "The general word for 'fish' in Italian is 'pesce'. It can refer to any fish!",
+            "imagePrompt": "A group of diverse colorful pesce (fish) swimming together in a coral reef, bright and lively underwater scene, cartoon illustration",
+            "camera": "monitor",
+            "audioFile": "audio_10.mp3",
+            "imageFile": "imagine_5.jpg"
+        },
+        {
+            "type": "SPEAK",
+            "actorId": "hero",
+            "text": "Now that I know these names, I wonder how people like to 'cucinare' them. Maybe I can try some later!",
+            "animation": "think",
+            "camera": "general",
+            "audioFile": "audio_11.mp3"
+        },
+        {
+            "type": "SHOW_IMAGE",
+            "text": "To 'cucinare' means 'to cook' in Italian. There are many delicious ways to cook fish!",
+            "imagePrompt": "A chef's hands preparing to cook a fresh fish, holding a pan and spatula, kitchen setting, steam rising, warm lighting, realistic",
+            "camera": "monitor",
+            "audioFile": "audio_12.mp3",
+            "imageFile": "imagine_6.jpg"
+        },
+        {
+            "type": "SPEAK",
+            "actorId": "hero",
+            "text": "What a fun day at the 'Mercato del pesce'! I learned 'Tonno', 'Salmone', 'pesce', 'imparare', and 'cucinare'. Arrivederci!",
+            "animation": "doWave",
+            "camera": "general",
+            "audioFile": "audio_13.mp3"
+        }
+    ],
+    "quiz": [
+        {
+            "question": "What is the Italian word David learned for 'Tuna'?",
+            "options": [
+                "Tonno",
+                "Salmone",
+                "Pesce"
+            ],
+            "correct_index": 0,
+            "tipIntrebare": "Text",
+            "imagineEnunt": "imagine_7.jpg",
+            "optiuniImagini": []
+        },
+        {
+            "question": "Which Italian word means 'to learn'?",
+            "options": [
+                "Cucinare",
+                "Imparare",
+                "Mercato"
+            ],
+            "correct_index": 1,
+            "tipIntrebare": "Text",
+            "imagineEnunt": "imagine_8.jpg",
+            "optiuniImagini": []
+        },
+        {
+            "question": "What is the English translation for the Italian word 'Salmone'?",
+            "options": [
+                "Cod",
+                "Tuna",
+                "Salmon"
+            ],
+            "correct_index": 2,
+            "tipIntrebare": "Text",
+            "imagineEnunt": "imagine_9.jpg",
+            "optiuniImagini": []
+        }
+    ]
+}

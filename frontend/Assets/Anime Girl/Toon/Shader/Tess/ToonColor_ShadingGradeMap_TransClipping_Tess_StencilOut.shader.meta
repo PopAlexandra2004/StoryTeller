@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8eff803eae89c994fae3acf2f686fafa
+timeCreated: 1518248473
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235114
+  packageName: Anime Girl
+  packageVersion: 1.0
+  assetPath: Assets/Anime Girl/Toon/Shader/Tess/ToonColor_ShadingGradeMap_TransClipping_Tess_StencilOut.shader
+  uploadId: 532436

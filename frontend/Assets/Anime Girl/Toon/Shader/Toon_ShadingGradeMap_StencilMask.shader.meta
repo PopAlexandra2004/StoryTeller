@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aa2e05ed58ca15441bd0989f008da78b
+timeCreated: 1485041920
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235114
+  packageName: Anime Girl
+  packageVersion: 1.0
+  assetPath: Assets/Anime Girl/Toon/Shader/Toon_ShadingGradeMap_StencilMask.shader
+  uploadId: 532436
